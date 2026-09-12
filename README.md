@@ -17,35 +17,29 @@ Write the Windows commands / batch file . Save each script in a file with a .bat
 
 Execute the necessary commands/batch file for the desired output. 
 
-
-
-
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
-
 ## COMMAND AND OUTPUT
+<img width="406" height="43" alt="image" src="https://github.com/user-attachments/assets/6fad62d0-e5d0-42ea-829d-e1428f8aa96f" />
 
 Remove the directory "my-folder"
-
 ## COMMAND AND OUTPUT
-
+<img width="385" height="50" alt="image" src="https://github.com/user-attachments/assets/07566c91-eff8-4823-8305-9807397cfb90" />
 
 Create the file Rose.txt
-
 ## COMMAND AND OUTPUT
-
+<img width="623" height="388" alt="image" src="https://github.com/user-attachments/assets/b4e946fc-fca1-4bfa-af8c-8189d61f4c69" />
 
 Create the file hello.txt using echo and redirection
-
 ## COMMAND AND OUTPUT
+<img width="566" height="108" alt="image" src="https://github.com/user-attachments/assets/0cd4dae4-5042-4103-8d5c-80d5165201bc" />
 
 Copy the file hello.txt into the file hello1.txt
-
 ## COMMAND AND OUTPUT
+<img width="538" height="71" alt="image" src="https://github.com/user-attachments/assets/1e04c5c1-694a-4ea8-b938-f768b6066608" />
 
 Remove the file hello1.txt
-
 ## COMMAND AND OUTPUT
 
 List out the file hello1.txt in the current directory
