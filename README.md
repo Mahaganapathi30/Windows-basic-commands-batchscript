@@ -57,15 +57,11 @@ Compare the file hello.txt and rose.txt
 
 
 ## Exercise 2: Advanced Batch Scripting
+
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
-
-
-
-
-## OUTPUT
-
-
+## OUTPUT:
+<img width="447" height="134" alt="image" src="https://github.com/user-attachments/assets/6a17bfa6-eced-47f7-931d-9970b7fb1834" />
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
 Prompt the user to enter a number.
@@ -75,21 +71,13 @@ Ask the user if they want to check another number.
 Repeat the process if the user enters Y, and exit with a thank-you message if the user enters N.
 Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
-
-
-## OUTPUT
-
-
-
+## OUTPUT:
+<img width="580" height="266" alt="image" src="https://github.com/user-attachments/assets/fadce236-45a3-4477-8a5b-9076507f68d6" />
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
 
-
-
-
-## OUTPUT
-
-
+## OUTPUT:
+<img width="384" height="167" alt="image" src="https://github.com/user-attachments/assets/97da85d5-0a6b-4917-acfb-d3d0e0a49246" />
 
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
@@ -101,7 +89,7 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
-
+<img width="571" height="238" alt="image" src="https://github.com/user-attachments/assets/12bafabe-5a19-4986-b445-fd7cedf29fa7" />
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -109,10 +97,8 @@ Create a File – Creates a file named newfile.txt with the content This is a ne
 Exit – Exits the script with a goodbye message
 The script should repeatedly display the menu until the user chooses to exit. Use goto statements to handle menu navigation.
 
-
 ## OUTPUT
-
-
+<img width="397" height="400" alt="image" src="https://github.com/user-attachments/assets/0abddac1-12ef-4d6b-b406-071c90b411d3" />
 
 # RESULT:
 The commands/batch files are executed successfully.
