@@ -41,19 +41,20 @@ Copy the file hello.txt into the file hello1.txt
 
 Remove the file hello1.txt
 ## COMMAND AND OUTPUT
+<img width="384" height="27" alt="image" src="https://github.com/user-attachments/assets/6ba01681-52d3-483f-8a20-9bc49142a0c1" />
 
 List out the file hello1.txt in the current directory
-
 ## COMMAND AND OUTPUT
+<img width="473" height="178" alt="image" src="https://github.com/user-attachments/assets/1145ffc6-8d59-4b3c-97c4-725c63b3a1cd" />
 
 List out all the associated file extensions 
-
 ## COMMAND AND OUTPUT
-
+<img width="467" height="283" alt="image" src="https://github.com/user-attachments/assets/cd96e608-2298-401b-a1ba-b4586a8ffc1b" />
 
 Compare the file hello.txt and rose.txt
-
 ## COMMAND AND OUTPUT
+<img width="526" height="215" alt="image" src="https://github.com/user-attachments/assets/272c1f2c-7ba5-4a5c-8532-d8dbfdcef693" />
+
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
