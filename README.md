@@ -88,7 +88,7 @@ Make sure the script works for files located in the same directory as the batch 
 Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
-## OUTPUT
+## OUTPUT:
 <img width="571" height="238" alt="image" src="https://github.com/user-attachments/assets/12bafabe-5a19-4986-b445-fd7cedf29fa7" />
 
 Write a batch script that displays a simple menu with three options:
@@ -97,7 +97,7 @@ Create a File – Creates a file named newfile.txt with the content This is a ne
 Exit – Exits the script with a goodbye message
 The script should repeatedly display the menu until the user chooses to exit. Use goto statements to handle menu navigation.
 
-## OUTPUT
+## OUTPUT:
 <img width="397" height="400" alt="image" src="https://github.com/user-attachments/assets/0abddac1-12ef-4d6b-b406-071c90b411d3" />
 
 # RESULT:
